@@ -1,0 +1,31 @@
+# jemdoc: menu{MENU}{links.html}
+\n
+= Outlier Analysis
+. Tutorials: [https://www.siam.org/meetings/sdm11/clustering.pdf Multiple Clustering Solutions]; [http://videolectures.net/ecmlpkdd08_lazarevic_dmfa/ Data Mining for Anomaly Detection]; [https://www.siam.org/meetings/sdm10/tutorial3.pdf Outlier Detection Techniques]; [http://www.outlier-analytics.org/odd13kdd/papers/slides_charu_aggarwal.pdf Outlier Ensembles]; [http://www3.cs.stonybrook.edu/~leman/wsdm13/ Anomaly Detection]; [http://www.cs.kumamoto-u.ac.jp/~yasuko/TALKS/15-SIGMOD-tut/ Mining and Forecasting]; [http://www.cs.waikato.ac.nz/~abifet/PAKDD2011/ Concept Drift]
+. Workshops: KDD - Outlier Detection and Description [http://outlier-analytics.org/odd13kdd/ 2013], [http://outlier-analytics.org/odd14kdd/ 2014], [http://outlier-analytics.org/odd15kdd/ 2015]; [http://www-bcf.usc.edu/~liu32/milets/ Learning from Time Series]
+. Lecture Series: [https://goo.gl/m6U7MU Cluster Analysis]; [https://goo.gl/myGG7c Data Science]
+. Groups: [http://dme.rwth-aachen.de/en/DMCS DMCS]
+. Blog Articles: [http://machinelearningmastery.com/how-to-identify-outliers-in-your-data/Identify outliers in your data]; [http://gforge.se/2015/02/how-to-go-parallel-in-r-basics-tips/ R-Parallel Processing]
+. Datasets: [https://trynthink.github.io/buildingsdatasets/ Buildings]; [https://github.com/caesar0301/awesome-public-datasets Awesome Public Datasets]
+
+
+= Research
+. [https://www.youtube.com/watch?v=Pbdo-ozuOug How to Have a Bad Career in Research/Academia Pre-PhD and Post-PhD by Prof. David Patterson].
+. [https://www.youtube.com/watch?v=a1zDuOPkMSw You and Your Research by Richard Hamming]
+. [http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf Do Good Research and Publish in SIGKDD by Eamonn Keogh]
+. Writing: [http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html Research & Writing by Mark Leone];[http://cs.stanford.edu/people/widom/paper-writing.html Writing Tips by Jennifer Wisdom]
+. Presentations: [https://homes.cs.washington.edu/~mernst/advice/giving-talk.html Michael Ernest]
+. Posters: [https://homes.cs.washington.edu/~mernst/advice/poster.html Michael Ernest]
+. [http://michaelnielsen.org/blog/principles-of-effective-research/ Principles of Effective Reseachby Michael A. Nielsen]
+
+= Life Learning Lessons
+. [https://www.youtube.com/watch?v=j7zzQpvoYcQ The Last Lecture by Prof. Randy Pausch]
+. [https://www.youtube.com/watch?v=gO6cFMRqXqU Stay Hungry, Stay Foolish by Steve Jobs st Stanford]
+. [https://www.youtube.com/watch?v=7zdVxBUJPHQ Commencement Speech by Alia Poonawala at CMU]
+. Ted talks: [https://goo.gl/Qc2U7T The new Bionics]; [http://goo.gl/FrRPcG Try something new for 30 days]; [https://www.youtube.com/watch?v=gyM6rx69iqg A Crash Course in Creativity]; [https://www.youtube.com/watch?v=7hWRva_sPeE Creativity Under Pressure]
+. [https://www.youtube.com/watch?v=1JX81Kz1QYc Story of Gratitude by M. Mazari]
+
+= Buildings Energy consumption open Datasets
+. [https://trynthink.github.io/buildingsdatasets/ The Buildings Datasets]
+. [http://blog.oliverparson.co.uk/2012/06/public-data-sets-for-nialm.html Public NIALM dataset by Oliver Parson]
+

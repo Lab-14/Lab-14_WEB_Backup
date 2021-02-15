@@ -1,0 +1,79 @@
+# jemdoc: menu{MENU}{index.html}
+# jemdoc: title{Haroon Rashid}
+
+\n
+= Haroon Rashid Lone
+
+~~~
+{}{img_left}{files/pic-haroon2018.png}{alt text}{200px}{230px}{IMGLINKTARGET}
+Visiting Assistant Professor  \n
+Department of Computer Science, A&S Building\n
+University of South Dakota \n
+Vermillion, SD - 57069 \n
+Email id: [haroon.lone@usd.edu] \n
+
+
+ *[files/cv_Haroon_short.pdf CV] (Updated on Nov. 8, 2020)*  \n
+ *[https://scholar.google.co.in/citations?user=OjujmUAAAAAJ&hl=en Google Scholar]* \n
+ *[https://www.github.com/loneharoon GitHub] *
+
+ 
+~~~
+
+#{{<font color =  red size=+2.5><b>}}* Looking for a Postdoc pos *{{</b></font>}}
+
+I am a Visiting Assistant Professor in the Department of Computer Science at the University of South Dakota. My research is primarily in the areas of the Internet-of-Things (IoT) and applied Machine Learning.  My research approach is to deploy sensors, collect & analyze data, and build models using machine learning and data science approaches. Currently, I am focusing on Energy Sustainability and Smart Healthcare domains.
+
+
+Before this, I was a Postdoc in the Department of Engineering Systems at the University of Virginia. I worked with [https://engineering.virginia.edu/faculty/laura-barnes Laura Barnes]  in leveraging wearables for identifying the digital biomarkers of mental health. This work was in collaboration with the Psychology and Environment departments of the UVA. 
+
+
+Before Postdoc, I did my Ph.D. in Computer Science from IIIT-Delhi under [https://www.pushpendrasingh.org/ Pushpendra Singh]. The focus of our work was to detect energy wastage instances in buildings first and then identify/localize the appliance causing the energy wastage. Towards this, we used temporal data collected from smart meters installed in the buildings. During Ph.D., I was fortunate to work for a significant duration with [https://sites.google.com/site/ramamrithamkrithi/home Krithi Ramamritham] at IIT Bombay, [https://www.strath.ac.uk/staff/stankovicvladimirdr/ Vladimir Stankovic] and [https://www.strath.ac.uk/staff/stankoviclinadr/ Lina Stankovic] at the University of Strathclyde, UK. Before Ph.D., I did master's from the National Institute of Technology Rourkela, India. During master's, I worked with [http://www.nitrkl.ac.in/CS/~akturuk/ Ashok Kumar Turuk], and the focus of our work was to localize sensor nodes both in static as well as in mobile scenarios while using the minimum number of beacon nodes.
+
+
+= Research Interests
+
+Internet of Things (IoT), Machine Learning, Data science, Smart Healthcare, Energy Sustainability
+
+= Research Experience
+~~~
+{}{table}{TABLENAME}
+Position  | Place  | Duration ||
+Visiting Asst. Prof. | University of South Dakota, USA | Aug'20 -  Present ||
+Postdoc | University of Virginia, USA | May'19 - Aug'20   ||
+PhD scholar | IIIT Delhi, India | 2014 - 2018   ||
+Visiting researcher | Univeristy of Strathclyde, UK | Nov'17 - April'18   ||
+Visiting researcher | IIT Bombay, India | Oct'16 - Dec'16   
+~~~
+
+
+= News
+- xx-08-2020 : Joined University of South Dakota as a Visiting Assistant Professor \n
+- xx-07-2020 :  Our paper got accepted at ACM, IMWUT \n
+- xx-05-2019 :  Joined Postdoc position at the UVA \n
+- 18-03-2019 :  Defended my PhD work :) \n
+- xx-02-2019 :  Our paper got accepted in IEEE ICASSP \n
+- xx-01-2019 :  Our paper got accepted in Applied Energy - Elsevier \n
+- 06-01-2019 :  Finished a half-marathon of [files/figures/halfmarathon2019.png 23 Km in 140 minutes] \n
+- xx-12-2018 :  Our paper got accepted in Scientific Reports - Nature \n
+- xx-09-2018 :  Our paper got accepted in IEEE CIC 2018 \n
+- xx-09-2018 :  Received travel grant for Buildsys from Microsoft India \n
+- xx-08-2018 :	Our paper got accepted in ACM BuildSys 2018 \n
+- xx-04-2018 :	Our paper got accepted in ACM e-Energy 2018 \n
+- xx-10-2017 :  Received SIGMOBILE travel grant for BuildSys 2017\n
+- xx-09-2017 :  Presented our work in doctoral symposium at NIIT university, Rajasthan \n
+- xx-08-2017 :	Paper got accepted in ACM COMPUTE 2017 \n
+- xx-08-2017 :	Two papers got accepted in ACM BuildSys 2017 \n
+- xx-07-2017 :  Particpant, Summer school on Machine Learning at IIIT Hyderabad from 10 - 15 July 2017
+- xx-03-2017 :	Invited Talk on Time series Forecasting at NIT Srinagar \n
+- 26-02-2017 : 	Finisher, IDBI Federal Life Insurance New Delhi Half Marathon in 124 minutes \n
+- xx-07-2016 :	Presented our ongoing work in ITRA meeting at IIIT Hydearabad,\n
+- xx-04-2016 : 	Poster paper got accepted in e-Energy 2016 \n
+- xx-01-2016 :	Presented work on anomaly detection in ITRA meeting at Bangalore \n
+- 29-11-2015 :	Finisher, [https://imgur.com/xqj1MPx Airtel Delhi Half-Marathon] \n
+- 20-11-2015 :	Volunteer, Workshop on Ubiquitous Sensing for Effective Living at IIIT-D \n
+- 28-10-2015 :	Participant, I-CARE 2015, IBM Delhi, Winter school on Cognitive computing \n
+- 09-10-2015 :	Visit to TCS Innovation Labs Delhi \n
+- 17-07-2015 :	Talk on Linked data at TCS Innovation Labs Bangalore \n
+- 15-06-2015 :	Participant, MSR India summer School on Machine Learning at IISC Bangalore. \n
+- 27-11-2014 :	Received TCS Research Fellowship (Cycle 9)
